@@ -1,0 +1,16 @@
+:root {
+    --color: #0c183a;
+    --headingColor: #3b45ff;
+    --subColor: #1a346b;
+    --mt: 40px;
+    --headingSize: 36px;
+    --subSize: 12px;
+    --sub-heading: 20px;
+    --herohedingSize: 46px;
+    --randomPadding: 20px 24px;
+    --btn-radius: 4px;
+    --colorLight: #f1f1f1;
+    --bgLight: #d5e5ff;
+    --paddingContainer: 80px 24px;
+    --drop-shadow: drop-shadow(0px 4px 8px rgba(66, 66, 66, 0.5));
+}
